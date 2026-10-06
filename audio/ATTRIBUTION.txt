@@ -1,0 +1,6 @@
+Isolated English phoneme recordings
+Source packaging: https://github.com/xiaozhah/phoneme_audio
+Upstream project attributes the recordings to Oxford Dictionary: https://oalecd10.cp.com.cn/#/desktop/dict
+These files contain individual spoken phonemes, not word TTS or generated tones.
+
+Example word and sentence clips: British English speech synthesis.
